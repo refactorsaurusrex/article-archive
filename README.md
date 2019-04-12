@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Nick's Article Archive
 
-You can use the [editor on GitHub](https://github.com/refactorsaurusrex/article-archive/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Some articles on the web are too good to risk losing. I created this repo to save copies of articles that I find myself referring back to over and over again. That way, if they should ever go offline, my copy will be safe and sound. Sure, I could use [Pocket](https://getpocket.com) or the [Wayback Machine](https://archive.org/web/), but, meh, I like this solution better. :)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## The List
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/refactorsaurusrex/article-archive/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Chris Beams: [How to Write a Git Commit Message](https://refactorsaurusrex.github.io/article-archive/How%20to%20Write%20a%20Git%20Commit%20Message) [[src]](https://chris.beams.io/posts/git-commit/)
