@@ -5,3 +5,4 @@ Some articles on the web are too good to risk losing. I created this repo to sav
 ## The List
 
 - Chris Beams: [How to Write a Git Commit Message](https://refactorsaurusrex.github.io/article-archive/How%20to%20Write%20a%20Git%20Commit%20Message) [[src]](https://chris.beams.io/posts/git-commit/)
+- Kris Hicks: [git rebase –onto](https://refactorsaurusrex.github.io/article-archive/git_rebase_onto.html) [[src]](https://content.pivotal.io/blog/git-rebase-onto)
